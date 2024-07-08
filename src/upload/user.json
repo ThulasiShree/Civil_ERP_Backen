@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Pixalive",
+        "mobileNumber": 90000000000,
+       "email": "admin@gmail.com",
+        "role": "ADMIN",
+        "imageUrl": "https://upturnhrmanagement.s3.ap-south-1.amazonaws.com/employee/men.png",
+        "status": 1,
+        "isDeleted": false
+    }
+]
