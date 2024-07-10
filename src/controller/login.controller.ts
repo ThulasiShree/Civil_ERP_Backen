@@ -11,7 +11,7 @@ import *  as TokenManager from "../utils/tokenManager"
 var activity = "Login"
 
 /**
- * @author Manibharathi M 
+ * @author Manibharathi 
  * @date 02-05-2024
  * @param {Object} req 
  * @param {Object} res 
