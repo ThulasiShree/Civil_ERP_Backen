@@ -8,7 +8,7 @@ import { LogsDocument, Logs } from "../model/logs.model";
 var activity = 'LOGS';
 
 /**
- * @author ManiBharathi M
+ * @author  Dharani S
  * @date 02-05-2024
  * @param {Object} req 
  * @param {Object} res 

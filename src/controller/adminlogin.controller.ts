@@ -10,7 +10,7 @@ import * as TokenManager from "../utils/tokenManager";
 var activity = "AdminLogin"
 
 /**
- * @author Manibharathi M 
+ * @author Dharani S
  * @date 02-05-2024
  * @param {Object} req 
  * @param {Object} res 
@@ -66,7 +66,7 @@ export let AdminLogin = async (req, res, next) => {
 };
 
 /**
- * @author ManiBharathi M
+ * @author Dharani S
  * @date 05-12-2023
  * @param {Object} req 
  * @param {Object} res 

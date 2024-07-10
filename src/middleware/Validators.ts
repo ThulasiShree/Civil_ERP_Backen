@@ -5,7 +5,7 @@ import { body } from 'express-validator';
 
 
 /**
- * @author Santhosh Khan K
+ * @author Dharani S
  * @date  09-10-2023
  * @description Function to check for the Validation of Query
  * @param {string} id
@@ -19,7 +19,7 @@ export let checkQuery = (id) => {
 }
 
 /**
- * @author Santhosh Khan K
+ * @author Dharani S
  * @date  09-10-2023
  * @description Function to check for the Validation of Params
  * @param {string} id
@@ -33,7 +33,7 @@ export let checkParam = (id) => {
 }
 
 /**
- * @author  Santhosh Khan K
+ * @author  Dharani S
  * @date  09-10-2023
  * @description Function to check for the Validation of boady arguments
  * @param {string} val

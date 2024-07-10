@@ -11,7 +11,7 @@ import *  as TokenManager from "../utils/tokenManager"
 var activity = "Login"
 
 /**
- * @author Manibharathi M
+ * @author Dharani S
  * @date 02-05-2024
  * @param {Object} req 
  * @param {Object} res 
@@ -118,7 +118,7 @@ export let   resendotp = async (req, res, next) => {
 
 
 /**
- * @author Manibharathi M 
+ * @author Dharani S
  * @date 02-05-2024
  * @param {Object} req 
  * @param {Object} res 
@@ -153,7 +153,7 @@ export let forgotPassword = async (req, res, next) => {
     }
 }
 /**
-* @author Manibharathi 
+* @author   Dharani S
 * @date 02-05-2024
 * @param {Object} req 
 * @param {Object} res 

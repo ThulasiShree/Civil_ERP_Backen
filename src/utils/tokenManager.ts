@@ -5,7 +5,7 @@ import { clientError, errorMessage } from '../helper/ErrorMessage';
 const activity = 'token';
 
 /**
- * @author Mohanraj V / Santhosh
+ * @author Dharani S
  * @date 22-09-2023
  * @param {Object} req 
  * @param {Object} res 
@@ -29,7 +29,7 @@ export let CreateJWTToken = (data: any = {}) => {
 
 
 /**
- * @author Mohanraj V / Santhosh
+ * @author Dharani S
  * @date 22-09-2023
  * @param {Object} req 
  * @param {Object} res 
